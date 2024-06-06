@@ -3,4 +3,4 @@ Timeline and Health Status of COVID cases in the Philippines is created from the
 PostgreSQL is used for data cleaning and [Tableau](https://public.tableau.com/app/profile/jethro.elijah.bolima/viz/P1_COVIDCasesinthePhilippinesDataDropfromNovember112022/MonthlyTimelineofCOVIDCases-D) is used for data visualization.
 
 <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>&nbsp;
-<img src="https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>;
+<img src="https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>
