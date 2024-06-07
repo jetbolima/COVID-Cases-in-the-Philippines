@@ -1,7 +1,6 @@
 -- 1.1. create table for importing.
 
 create table nov_batch_raw (
-	Case_ID serial PRIMARY KEY,
 	CaseCode text NOT NULL,
 	Age smallint,
 	AgeGroup text,
