@@ -15,5 +15,5 @@ PostgreSQL is used for data cleaning and exploratory data analysis and [Tableau]
      - 84.80% of COVID cases were NOT home quarantined and 97.27% were NOT admitted to the hospital.
      - 51.43% of the total COVID cases are female and 48.57% are male. 0.004% of females were pregnant while they were experiencing COVID.
      - 59.66% of the total COVID cases are from 2021, 28.71% from 2022, and 11.63% from 2020.
-     - 97.96% of the total COVI cases has recovered but 1.63% has passed away due to it.
+     - 97.96% of the total COVID cases has recovered but 1.63% has passed away due to it.
 4. There is a surge of COVID cases around August-September 2021 and January 2022.
